@@ -9,7 +9,7 @@ crate-type = ["cdylib", "rlib"]
 
 [dependencies]
 chrono = { workspace = true, default-features = false, features = ["clock"] }
-bytes = { version = "1.5" }
+bytes = { version = "1.11" }
 pin-project = "1.1.3"
 futures-core = { version = "0.3" }
 tokio = { workspace = true, features = ["sync", "time", "rt"] }

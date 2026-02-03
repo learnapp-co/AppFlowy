@@ -13,7 +13,7 @@ futures-core = { version = "0.3", default-features = false }
 futures-channel = "0.3.26"
 futures.workspace = true
 futures-util = "0.3.26"
-bytes = { version = "1.4", features = ["serde"] }
+bytes = { version = "1.11", features = ["serde"] }
 nanoid = "0.4.0"
 
 dyn-clone = "1.0"

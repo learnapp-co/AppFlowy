@@ -67,7 +67,7 @@ flowy-ai-pub = { path = "flowy-ai-pub" }
 anyhow = "1.0"
 arc-swap = "1.7"
 tracing = "0.1.40"
-bytes = "1.5.0"
+bytes = "1.11.1"
 serde_json = "1.0.108"
 serde = "1.0.194"
 protobuf = { version = "2.28.0" }
